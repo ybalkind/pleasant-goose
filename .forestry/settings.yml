@@ -15,15 +15,15 @@ sections:
   templates:
   - header
 - type: document
-  path: _data/footer.yml
-  label: Footer Configuration
-  templates:
-  - footer
-- type: document
   path: _data/social.json
   label: Social Links
   templates:
   - social
+- type: document
+  path: _data/footer.yml
+  label: Footer Configuration
+  templates:
+  - footer
 - type: document
   path: _data/author.json
   label: Author

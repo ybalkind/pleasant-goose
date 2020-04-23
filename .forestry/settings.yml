@@ -47,6 +47,7 @@ sections:
   create: all
   templates:
   - post
+  - post
 - type: document
   path: _data/menus.yml
   label: Site Menus
